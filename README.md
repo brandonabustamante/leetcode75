@@ -8,4 +8,8 @@
 
 #### Day 02:
 	* 0205 Isomorphic Strings
-	* Is Subsequence
+	* 0392Is Subsequence
+
+#### Day 02:
+	* 21 Merge Two Sorted Lists
+	* 206 Reverse Linked List
